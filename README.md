@@ -15,12 +15,9 @@
 
 在线体验 <https://dick318.github.io> | <https://blog.401401.xyz/>
 
-issue 访问：<https://github.com/dick318/blogs/issues>
+issue 访问：<https://github.com/dick318/dick318.github.io/issues>
 
-------
 
-![](static/img/view.png)
-------
 
 💓💓💓
 
