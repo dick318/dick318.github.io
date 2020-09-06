@@ -167,15 +167,15 @@ webpackJsonp([5], {
           clientSecret: "daac9d926905ae8e27c548771a6096db4dd68016"
         },
         gitHubUser: null,
-        gitHubUsername: "geekyouth",
+        gitHubUsername: "dick318",
         copyright: "1970 - 2048",
         recordNumber: "null",
-        repo: "geekyouth/geekyouth.github.io",
+        repo: "dick318/dick318.github.io",
         pageSize: 10,
         showQQGroup: !1,
         thirdPartySite: [{
           img: "static/img/github.png",
-          url: "https://github.com/geekyouth/geekyouth.github.io"
+          url: "https://github.com/dick318/dick318.github.io"
         }, {
           img: "static/img/status.ico",
           url: "https://java666.cn/uptime-status/"
