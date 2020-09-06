@@ -17,10 +17,7 @@
 
 issue 访问：<https://github.com/dick318/dick318.github.io/issues>
 
-------
 
-![](static/img/view.png)
-------
 
 💓💓💓
 
