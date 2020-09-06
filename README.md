@@ -13,7 +13,7 @@
 
 👣极客青年博客😘，基于github pages+issues + VUE 2.0 框架构建的轻量级静态博客系统💎
 
-在线体验 <https://dick318.github.io> | <https://java666.cn>
+在线体验 <https://dick318.github.io> | <https://blog.401401.xyz/>
 
 issue 访问：<https://github.com/dick318/blogs/issues>
 
